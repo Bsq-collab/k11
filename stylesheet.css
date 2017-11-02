@@ -1,0 +1,27 @@
+body{
+    background-color: #00ffff;
+    color: black;
+    cursor: wait;
+}
+h1{
+    color: pink;
+    font-size: xx-large;
+   
+}
+
+ul{
+    background-color: maroon;
+    list-style-type: square;
+    
+}
+
+a{
+    color: white;
+}
+h2{
+    color: gray;
+}
+p{
+    font-size: large;
+    color: darkolivegreen;
+}

@@ -1,0 +1,28 @@
+body{
+    background-color: darkred;
+    color: turquoise;
+    cursor: crosshair;
+    
+}
+h1{
+    color: white;
+    font-size: xx-large;
+    font-family: ThreeDHighlight   
+}
+
+ul{
+    background-color: lime;
+    list-style-type: square;
+    
+}
+
+a{
+    color: yellow;
+}
+h2{
+    color: gray;
+}
+p{
+    font-size: large;
+    color: olive;
+}
