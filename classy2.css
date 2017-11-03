@@ -1,0 +1,47 @@
+.navzone{
+    color: white;
+}
+.prose{
+    font-weight: oblique;
+}
+li a {
+    display: block;
+    color: red;
+    padding: 8px 16px;
+    text-decoration: none;
+    border-style: inset;
+    border-color: teal;
+    padding: 10px;
+    background-color: black;
+}
+
+li a:hover {
+    background-color: #3399ff;
+    color: white;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 25%;
+    background-color: olive;
+    height: 100%;
+  
+  
+}
+p {
+    border-style: inset;
+    border-radius: 20px;
+    background-color: orange;
+    color: blue;
+}
+h2{
+    color:#EBD2B4;
+}
+body{
+   
+}
+
+#extreme{
+    background-color: aqua;
+    color: purple;
